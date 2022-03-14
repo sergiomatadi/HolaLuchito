@@ -1,2 +1,2 @@
-var numero = 1;
+var numero = 10;
 var pendiente = 5;
