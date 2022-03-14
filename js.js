@@ -1,2 +1,1 @@
-var numero = 10;
-var pendiente = 5;
+const visto = 9;
