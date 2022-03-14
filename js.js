@@ -1,1 +1,1 @@
-var visto = 9;
+const visto = 9;
